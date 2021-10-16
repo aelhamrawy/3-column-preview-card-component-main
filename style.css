@@ -42,7 +42,7 @@ main {
 
 .card {
   width: 290px;
-  height: 470px;
+  height: 480px;
   padding: 2.8rem;
 }
 
@@ -80,7 +80,7 @@ h3 {
   background-color: var(--very-light-gray);
   border: none;
   border-radius: 1.5rem;
-  margin-top: 3.5rem;
+  margin-top: 4.5rem;
   cursor: pointer;
   font-family: "Lexend Deca", sans-serif;
 }
