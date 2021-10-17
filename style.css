@@ -42,7 +42,7 @@ main {
 
 .card {
   width: 290px;
-  height: 480px;
+  height: 490px;
   padding: 2.8rem;
 }
 
@@ -80,9 +80,10 @@ h3 {
   background-color: var(--very-light-gray);
   border: none;
   border-radius: 1.5rem;
-  margin-top: 4.5rem;
+  margin-top: 5rem;
   cursor: pointer;
   font-family: "Lexend Deca", sans-serif;
+  transition: all 0.2s;
 }
 
 .sedan .btn {
